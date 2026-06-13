@@ -24,14 +24,6 @@ Smart error handling
 - Deep Translator
 - Python Dotenv
 
-📁 Project Structure
-
-translingua/
-│
-├── translang.py # Main application file
-├── .env # API key (not shared)
-├── requirements.txt # Required libraries
-└── README.md
 
 🔑 API Key Setup (Gemini AI)
 
